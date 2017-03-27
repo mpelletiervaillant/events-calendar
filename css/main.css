@@ -31,3 +31,19 @@ td {
   border: 1px solid #991919;
   border-radius: 8px;
 }
+
+.green {
+  font-weight: normal;
+  color: #6b7e54;
+  background-color: #d1e0bf;
+  border: 1px solid #51603f;
+  border-radius: 8px;
+}
+
+.blue {
+  font-weight: normal;
+  color: #38448e;
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+}
