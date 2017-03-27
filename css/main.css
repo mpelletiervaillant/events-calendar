@@ -1,10 +1,10 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
-table {
+tbody {
   width: 100%;
-  border-color: #333;
+  border: 1px solid #ccc;
 }
 
 th {
@@ -13,19 +13,16 @@ th {
 
 td {
   height: 10em;
-  text-align: right;
-  font-weight: bold;
 }
 
 .one {
-  font-weight: normal;
+  color: #333;
   background-color: #f2f2f2;
   border: 1px solid #666;
   border-radius: 8px;
 }
 
 .two {
-  font-weight: normal;
   color: #b92828;
   background-color: #f2bcbc;
   border: 1px solid #991919;
@@ -33,7 +30,6 @@ td {
 }
 
 .green {
-  font-weight: normal;
   color: #6b7e54;
   background-color: #d1e0bf;
   border: 1px solid #51603f;
@@ -41,7 +37,6 @@ td {
 }
 
 .blue {
-  font-weight: normal;
   color: #38448e;
   background-color: #d2d6f0;
   border: 1px solid #1d38da;
